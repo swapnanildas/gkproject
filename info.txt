@@ -1,0 +1,2 @@
+This is a small documnetation on our project. This will serve as our guide in the future
+Hope we can keep this updated as we progess further in the project
